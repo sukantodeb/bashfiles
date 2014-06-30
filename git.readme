@@ -1,0 +1,7 @@
+https://github.com/sukantodeb/bashfiles.git
+git clone https://github.com/sukantodeb/bashfiles.git
+git add .
+git commit -m "idl bash"
+git push origin master
+git pull (to pull some changes dome on readme.md)
+
