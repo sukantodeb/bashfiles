@@ -1,0 +1,3 @@
+Center of the SMC: 13.379 -72.988 
+./galstruct.sh smc_radec_lowP.dat  smc_distance_kPc_lowP.dat cartessian_smc.dat ellipsoid_smc.dat 13.379 -72.988 I
+
